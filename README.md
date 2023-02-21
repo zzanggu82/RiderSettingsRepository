@@ -1,0 +1,2 @@
+# RiderSettingsRepository
+Rider Settings Repository
